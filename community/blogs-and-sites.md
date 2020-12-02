@@ -42,6 +42,7 @@ List all here. Feel free to edit on github and add yourself.
 ## other resources
 
 * <http://sccode.org>
+* Reddit forum [r/supercolllider](https://www.reddit.com/r/supercollider/)
 * <http://sctweets.tumblr.com>
 * <http://electro-music.com/forum/forum-139.html>
 * [SuperCollider Planet - scplanet.tuxfamily.org](http://scplanet.tuxfamily.org/)
